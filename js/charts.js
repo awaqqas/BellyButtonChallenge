@@ -11,7 +11,7 @@ function init() {
         .append("option")
         .text(sample)
         .property("value", sample);
-        {console.log(key + ': ' + value);}
+        
     });
     
 
