@@ -110,8 +110,9 @@ header.masthead h2 {
     max-width: 25rem;
     margin-bottom: 15px;
 }
+
 .jumbotron {
-    background-image: url("../images/bacteria.jpeg");
+    background-image: url("../static/images/bacteria.jpeg");
     background-size: 100% 100%;
 }
 
