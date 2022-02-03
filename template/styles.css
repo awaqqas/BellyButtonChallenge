@@ -10,7 +10,7 @@ h5,
 h6 {
     font-weight: 100;
 }
-
+p.solid {border-style: solid;}
 hr {
     border-color: #fff;
     margin-top: 2.5rem;
