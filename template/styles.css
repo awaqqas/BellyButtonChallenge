@@ -123,6 +123,7 @@ header.masthead h2 {
   .col-md-5 {
     background-image: url("../static/gif/germs.gif");
     background-size: 50% 50%;
+    text-align: center;
   }
 
 
