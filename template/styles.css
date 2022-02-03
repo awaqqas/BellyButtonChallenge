@@ -12,8 +12,9 @@ h6 {
 }
 p.solid {border-style: solid;}
 div.solid {border-style: solid;}
-col-md12.solid {border-style: solid;}
-col-md5.solid {border-style: solid;}
+bubble.solid {border-style: solid;}
+bar.solid {border-style: solid;}
+gauge.solid {border-style: solid;}
 hr {
     border-color: #fff;
     margin-top: 2.5rem;
