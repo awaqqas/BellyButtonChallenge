@@ -110,6 +110,10 @@ header.masthead h2 {
     max-width: 25rem;
     margin-bottom: 15px;
 }
+.jumbotron {
+    background-image: url("../images/bacteria.jpeg");
+    background-size: 100% 100%;
+}
 
 .portfolio .portfolio-item .portfolio-item-caption {
     -webkit-transition: all ease 0.5s;
