@@ -113,15 +113,12 @@ header.masthead h2 {
 
 .jumbotron {
     background-image: url("../static/images/bacteria.jpeg");
-    background-size: 100% 100%;
+    background-size: 50% 50%;
     text-align: center;
   }
 
 
-.container {
-    background-image: url("../static/images/bacteria.jpeg");
-    background-size: 100% 100%;
-}
+
 
 .portfolio .portfolio-item .portfolio-item-caption {
     -webkit-transition: all ease 0.5s;
